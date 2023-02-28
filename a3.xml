@@ -1,0 +1,41 @@
+<!-- Importing dtd file -->
+<!DOCTYPE Resturants SYSTEM 'a3.dtd' >
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<Table>
+    <Resturant>
+        <Dish_name>Sandwich</Dish_name>
+        <category>Breakfast</category>
+        <waitingtime>15 min</waitingtime >
+        <price>40</price>
+        
+    </Resturant>
+    <Resturant>
+        <Dish_name>Pizza</Dish_name>
+        <category> Breakfast</category>
+        <waitingtime>25 mins</waitingtime>
+        <price>150</price>
+        
+    </Resturant>
+    <Resturant>
+        <Dish_name>Paneer dish</Dish_name>
+        <category>Lunch</category>
+        <waitingtime>20 min</waitingtime>
+        <price>120</price>
+        
+    </Resturant>
+    <Resturant>
+        <Dish_name>Dahi wada</Dish_name>
+        <category>Dinner</category>
+        <waitingtime>15 mins</waitingtime>
+        <price>100</price>
+        
+    </Resturant>
+    <!-- <Resturant>
+        <Dish_name>KIO</Dish_name>
+        <category>31131</category>
+        <waitingtime>TE-2</waitingtime>
+        <price>28</price>
+       
+    </Resturant> -->
+</Table>

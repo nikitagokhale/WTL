@@ -1,0 +1,8 @@
+<!DOCTYPE Resturant
+[
+<!ELEMENT resturant_menu (Dish_name, category, waitingtime, price)>
+<!ELEMENT Dish_name (#PCDATA) >
+<!ELEMENT category (#PCDATA) >
+<!ELEMENT waitingtime (#PCDATA) >
+<!ELEMENT price (#PCDATA) >
+]>

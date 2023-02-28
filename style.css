@@ -1,0 +1,14 @@
+Table{
+    background-color:rgb(212, 199, 11);
+    padding:1rem;
+}
+
+Resturant{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    padding: 1rem;
+    font-size:large;
+    font-weight:bold;
+    margin-top:1rem;
+}
